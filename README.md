@@ -4,7 +4,7 @@ Sou estudante de programação com foco em Python e estou aprendendo desenvolvim
 
 # Projeto Hexa
 
-![Neymar](./images/neymar.png)
+![Neymar](./neymar.png)
 
 
 ---
