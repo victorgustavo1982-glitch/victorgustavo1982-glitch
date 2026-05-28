@@ -2,7 +2,6 @@
 
 Sou estudante de programação com foco em Python e estou aprendendo desenvolvimento de software, lógica de programação e automação. Gosto de aprender novas tecnologias e desenvolver projetos para praticar meus conhecimentos. 
 
-# Projeto Hexa
 
 ![Neymar](./neymar.png)
 
